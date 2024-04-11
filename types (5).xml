@@ -1,0 +1,3307 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types>
+	<type name="Blacks_Barrel_Ammo">
+		<nominal>4</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Tools">
+		<nominal>4</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Supplies">
+		<nominal>4</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Weapons">
+		<nominal>4</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Attachments">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Base">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Black">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Blood">
+		<nominal>4</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Brick">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Building">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Camo1">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Camo2">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Camo3">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Camo4">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Camping">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Clothes">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Coke">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Collectables">
+		<nominal>4</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Colorful">
+		<nominal>4</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_DarkSand">
+		<nominal>2</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Digi">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Digital">
+		<nominal>3</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Digital2">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Drugs">
+		<nominal>4</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Electronics">
+		<nominal>2</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Fiber">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Food">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_FraggleRock">
+		<nominal>4</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Gear">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Glass">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Gold">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Golden">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Golds">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_GoldSteel">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_GreenLightning">
+		<nominal>4</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_GreyCamo">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_GreySkull">
+		<nominal>4</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Hell">
+		<nominal>4</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>2</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Ice">
+		<nominal>4</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Important">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Joker">
+		<nominal>4</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Junk">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Keep">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Launchers">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Lava">
+		<nominal>4</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Mags">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Material">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Medical">
+		<nominal>4</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Misculaneous">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Molten">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Molten2">
+		<nominal>4</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Molten3">
+		<nominal>4</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Molten4">
+		<nominal>4</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_NBC">
+		<nominal>3</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_NoClue">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Orange">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Parts">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Pave">
+		<nominal>3</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Pelts">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Pistols">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_PMarble">
+		<nominal>4</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Prism">
+		<nominal>4</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Prism2">
+		<nominal>4</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_PurpleZ">
+		<nominal>4</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_PurpleZ2">
+		<nominal>4</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Raid">
+		<nominal>4</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_RedBed">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Rifles">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Rustic">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Sand">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Seeds">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Sell">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Sell2">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Shotguns">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Silver">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Silver2">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_SMG">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Star">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_steel">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Steel2">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Steel3">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Steel4">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Steel5">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Steel6">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Steel7">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Steel8">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Steel9">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Steel10">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Stone">
+		<nominal>4</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Storage">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Tree">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Swirl">
+		<nominal>4</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Trade">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_UnCiv">
+		<nominal>4</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>2</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Weed">
+		<nominal>4</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>2</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Wierd">
+		<nominal>4</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Yellower">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Autos">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Batman1">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Batman2">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Batman3">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Batman4">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Batman5">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_BlackMarket">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Claws">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_COD">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Colors">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Colors2">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Crazy">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Dragon">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_FJB">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_FJB2">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Flower">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_GLiting">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Gold2">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_GSteel">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_GSteel2">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Inimical">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_JonBlack">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Lighting">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Lighting2">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Lighting3">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Lighting4">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Lighting5">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Marble">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Punisher">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Punisher2">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Punisher3">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Punisher4">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Punisher5">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Punisher6">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Punisher7">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Punisher8">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Ravens">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Ravens2">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Ravens3">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Ravens4">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Ravens5">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Ravens6">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Ravens7">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Ravens8">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Ravens9">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Ravens10">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Scary">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Scratch">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Scratch2">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Scratch3">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Skull">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Skull2">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Skull3">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Skull4">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Skull5">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Skull6">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Toxic">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Universe">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Zombie">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Punishier9">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Punishier10">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Camo397">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Camo398">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Enclave">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Enclave2">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Enclave3">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Enclave4">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Enclave5">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Enclave6">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Enclace7">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Enclave8">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Enclave9">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Enclave10">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Enclave11">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Enclave12">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Enclave13">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Enclave14">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Enclave15">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Enclave16">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Enclave17">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Enclave18">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Enclave19">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Enclave20">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Enclave21">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Enclave22">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Enclave23">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Enclave24">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Enclave25">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Enclace26">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Enclace27">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Enclace28">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Random">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Random2">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Random3">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Random4">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Random5">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Random6">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Random7">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Random8">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Random9">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Random10">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Random11">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Random12">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Random13">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Random14">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Random15">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Random16">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Random17">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Random18">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Random19">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Random20">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Random21">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Random22">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Random23">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Random24">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Static_BarrelHoles_UnCiv">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_BarrelHoles_UnCiv2">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Static_BarrelHoles_UnCiv2">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_BarrelHoles_UnCiv3">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Static_BarrelHoles_UnCiv3">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_BarrelHoles_UnCiv4">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Static_BarrelHoles_UnCiv4">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_BarrelHoles_UnCiv5">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Static_BarrelHoles_UnCiv5">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Random25">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Random26">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Barrel_Random27">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Static_Barrel_BaseBuilding">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Static_Barrel_Customs">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Static_Barrel_DrugDealer">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Static_Barrel_Armorer">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Static_Barrel_FishGame">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Static_Barrel_Hardware">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Static_Barrel_Boats">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Static_Barrel_Helis">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Static_Barrel_Market">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Static_Barrel_MiniMart">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_Static_Barrel_SpecGear">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+	</type>
+	<type name="Blacks_BarrelHoles_UnCiv">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="tools" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+		<tag name="floor" />
+    </type>
+</types>
